@@ -1,0 +1,36 @@
+_repo: Suljettu-puutarha-b-Runoja_74115
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kallas, Aino
+    aliases:
+    - Krohn, Aino
+    - Kallas, Aino Krohn
+    - Suonio, Aino
+    birthdate: 1878
+    deathdate: 1956
+    gutenberg_agent_id: '48577'
+    url: http://www.gutenberg.org/2009/agents/48577
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Aino_Kallas
+    - https://en.wikipedia.org/wiki/Aino_Kallas
+description: ''
+gutenberg_issued: '2024-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74115'
+language: fi
+pgterms:marc905: 20240721234302kallas
+pgterms:marc906: '1915'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bOtava, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Suljettu puutarha : $b Runoja'
+url: http://www.gutenberg.org/ebooks/74115
